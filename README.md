@@ -1,6 +1,7 @@
 # Shelf A
 ## IT Audit Portfolio
 ### About This Repository
+This repository contains practical IT audit and GRC portfolio work.
 
 
 ## Project Tracker
